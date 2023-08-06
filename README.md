@@ -1,1 +1,7 @@
 # banking_system
+
+A banking system refers to the network of financial institutions, such as banks, credit unions, and other financial intermediaries, that provide financial services to individuals, businesses, and governments. Basic banking system provide their traditional services to customers through the internet, such as account checking, transferring money from user to another, checking the transaction history etc. It can make the customer manage his/her accounts at home safely and conveniently.
+
+Online banking or internet banking is a term used to describe banking transactions include pay. Online banking is an activity that is not new to bank or the customers. The project is developed in HTML, CSS, JavaScript and PHP which mainly focuses on basic operations of the above concepts. Banks accept deposits from individuals and businesses, which can be in the form of checking accounts, savings accounts, or time deposits such as certificates of deposit. 
+
+It can make the customer manage his/her accounts at home safely and conveniently. Online banking or internet banking is a term used to describe banking transactions include pay. The project titled “Basic Banking System I need to create a simple dynamic website in which customer details, money transaction and transaction history is shown using Html, CSS, JavaScript and PHP in that customer data and their transaction should be display on landing page
